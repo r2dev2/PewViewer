@@ -1,5 +1,5 @@
 # PewViewer
-![alt text](img/PewViewerLogo.jpg)
+![PewViewer Logo](https://github.com/r2dev2bb8/PewViewer/blob/master/img/PewViewerLogo.png)
 
 ## Execution
 To watch the latest video posted by the configured youtuber, enter the following command.
