@@ -6,13 +6,13 @@ To watch the latest video posted by the configured youtuber, enter the following
 ``./watchNewest.bash``
 
 ## Setup
-
 ### Debian
 Use the following commands in the terminal.
 
 ``sudo apt install mpv youtube-dl``
 
 ``chmod +x watchNewest.bash``
+
 
 ### MacOS
 Use the following commands in the terminal if you have installed Homebew
@@ -21,6 +21,7 @@ Use the following commands in the terminal if you have installed Homebew
 ``brew install youtube-dl``
 
 ``chmod +x watchNewest.bash``
+
 
 ### Configure youtuber
 * Open watchNewest.bash in a text editor
