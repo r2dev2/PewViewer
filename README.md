@@ -1,20 +1,25 @@
 # PewViewer
 
 ## Execution
-To watch the latest video posted by the configured youtuber, enter the following command
+To watch the latest video posted by the configured youtuber, enter the following command.
+
 ``./watchNewest.bash``
 
 ## Setup
 
 ### Debian
-Use the following commands in the terminal
+Use the following commands in the terminal.
+
 ``sudo apt install mpv youtube-dl``
+
 ``chmod +x watchNewest.bash``
 
 ### MacOS
 Use the following commands in the terminal if you have installed Homebew
 ``brew cask install mpv``
+
 ``brew install youtube-dl``
+
 ``chmod +x watchNewest.bash``
 
 ### Configure youtuber
