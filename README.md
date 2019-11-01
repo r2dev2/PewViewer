@@ -24,7 +24,7 @@ Use the following commands in the terminal if you have installed Homebew
 ``chmod +x watchNewest.bash``
 
 
-### Configure youtuber
+### Configure Youtuber
 * Open watchNewest.bash in a text editor
   * In Debian, execute ``gedit watchNewest.bash``
   * In MacOS, execute ``open watchNewest.bash``
