@@ -26,7 +26,7 @@ Use the following commands in the terminal if you have installed Homebew
 
 ### Configure youtuber
 * Open watchNewest.bash in a text editor
-  * In Debian, execute ''gedit watchNewest.bash''
-  * In MacOS, execute ''open watchNewest.bash''
+  * In Debian, execute ``gedit watchNewest.bash``
+  * In MacOS, execute ``open watchNewest.bash``
 * Edit the link in line 2 to the link of your youtube channel
 * Save and exit
